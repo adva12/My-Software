@@ -1,4 +1,2 @@
 hello world
 bar adva
-parhi
-2021
